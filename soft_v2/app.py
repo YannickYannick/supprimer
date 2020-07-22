@@ -12,7 +12,8 @@ import tkinter as tk
 from tkinter import ttk
 from frames import OvenSeparate, Oscilloscope, Laser, Sample
 from communication.pico9000 import CommunicationPicoscope
-
+ salutt
+ 
 COLOR_LIGHT_BACKGROUND = "#D3E2F1"
 COLOR_DARK_BACKGROUND = "#2e3f4f"
 COLOR_TITLE = "#2e3f4f"
